@@ -1,2 +1,1 @@
-# CCDC
-my ccdc scripts, these are all of my old scripts.
+# repo for script dev 
